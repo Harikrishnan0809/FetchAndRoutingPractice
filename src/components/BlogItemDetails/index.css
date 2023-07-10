@@ -1,0 +1,41 @@
+/* Write your CSS code here */
+.detail-avatar-image {
+  height: 30px;
+  width: 30px;
+  border-radius: 20px;
+}
+
+.detail-container {
+  width: 90%;
+}
+
+.detail-image {
+  width: 100%;
+  height: 400px;
+}
+
+.detail-title {
+  font-weight: bold;
+  font-size: 40px;
+  font-family: 'Roboto';
+  color: #000000;
+  text-align: center;
+}
+
+.author-name {
+  font-size: 17px;
+  font-weight: 400;
+  color: #000000;
+  margin-left: 15px;
+}
+
+.detail-profile-container {
+  display: flex;
+  align-items: center;
+}
+
+.detail-para {
+  color: #2f4f4f;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
